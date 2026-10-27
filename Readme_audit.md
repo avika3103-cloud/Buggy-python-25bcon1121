@@ -1,4 +1,4 @@
-vThis README is wonderfully structured and clearly communicates the purpose of your RED → FIX → GREEN debugging project! Overall, I would rate the proficiency of this documentation as **Good**. 
+This README is wonderfully structured and clearly communicates the purpose of your RED → FIX → GREEN debugging project! Overall, I would rate the proficiency of this documentation as **Good**. 
 
 To take this from good to outstanding, let's look at a couple of foundational areas regarding Completeness and Depth:
 
