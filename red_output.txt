@@ -1,4 +1,4 @@
-vThis README is wonderfully structured and clearly communicates the purpose of your RED → FIX → GREEN debugging project! Overall, I would rate the proficiency of this documentation as **Good**. 
+This README is wonderfully structured and clearly communicates the purpose of your RED → FIX → GREEN debugging project! Overall, I would rate the proficiency of this documentation as **Good**. 
 
 To take this from good to outstanding, let's look at a couple of foundational areas regarding Completeness and Depth:
 
@@ -10,3 +10,4 @@ To take this from good to outstanding, let's look at a couple of foundational ar
     *   *Next Step:* Could we add a brief note in the "Expected Result" or "Testing Process" section encouraging the user to open the `.txt` files to see what the actual failure and success outputs looked like?
 
 Which of these sections would you like to tackle first? Let me know if you want to brainstorm exactly how to phrase the additions!
+
